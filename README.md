@@ -3,7 +3,7 @@
 <hr>
 <h3>The true story behind Hello World:</h3>
 <ul>
-  <li>It's simple this particular program is just for coder!</li>
+  <li>It's simple this particular program is just for new coders!</li>
 </ul>
 <hr>
 <h3>Quote of the day:</h3>
