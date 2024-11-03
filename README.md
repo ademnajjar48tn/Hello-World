@@ -1,4 +1,4 @@
-<h1>Hello👋, World🌎:</h1>
+<h1>Hello, World🌎:</h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hello_World_Brian_Kernighan_1978.jpg/220px-Hello_World_Brian_Kernighan_1978.jpg">
 <hr>
 <h3>The true story behind Hello World:</h3>
@@ -7,4 +7,4 @@
 </ul>
 <hr>
 <h3>Quote of the day:</h3>
-<p>Have a nice👌 day!</p>
+<p>Have a nice day!</p>
